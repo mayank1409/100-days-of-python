@@ -1,0 +1,13 @@
+print(3 + 5)
+print(6 - 4)
+print(7 * 3)
+print(9 / 3)
+print(2 ** 3)
+print(3 * 3 + 3 / 3 - 3)
+
+print(type(3 + 5))
+print(type(6 - 4))
+print(type(7 * 3))
+print(type(9 / 3))
+print(type(2 ** 3))
+print(type(3 * 3 + 3 / 3 - 3))
